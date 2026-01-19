@@ -32,7 +32,7 @@ Je m'intéresse particulièrement au développement d'applications en générale
 
 **Projets :**  
 - SAE 1.01 : projet de mini jeu en python (équipe de 2)  
-- SAE 1.02 : Projet de tri de Données et exploitztion des valeurs de temps et de mémoire (équipe de 2)  
+- SAE 1.02 : projet Comparaison d'algorithme de tri (temps/mémoire) (équipe de 2)  
 - SAE 1.03 : instalation d'une machine virtuel et script bash pour une bibliothèque fictive (équipe de 2)  
 - SAE 1.04 : projet BDD (équipe de 2)  
 - SAE 1.05 : receuil de besoins pour une application intra-net d'emprunts de materiels fictive (équipe de 2)  
