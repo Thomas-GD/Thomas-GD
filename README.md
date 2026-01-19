@@ -6,7 +6,7 @@ Je m'intéresse particulièrement au développement d'applications en générale
 
 ---
 
-**Langages que j'utilise ou que j'ai utilisés :** 
+**Langages que j'utilise ou que j'ai utilisés :**    
 🐍Python  
 💻Bash   
 🌐HTML5   
