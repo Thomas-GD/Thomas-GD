@@ -2,7 +2,7 @@
 
 <!--
 **Thomas-GD/Thomas-GD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 🎓 Étudiant BUT Informatique à l'IUT du Limousin. Je suis titulaire d'un BAC STI2D obtenu au Lycée Albert Claveille de Périgueux.
 
 Je m'intéresse particulièrement au développement d'applications en générale.
