@@ -15,10 +15,10 @@ Langages que j'utilise ou que j'ai utilisés :
 
 ---
 
-Outils :
-IDE : VScode,
-OS : windows, linux
-Canva, Miro
+Outils :  
+IDE : VScode,  
+OS : windows, linux  
+Canva, Miro  
 
 ---
 
