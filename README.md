@@ -7,25 +7,25 @@ Je m'intéresse particulièrement au développement d'applications en générale
 ---
 
 **Langages que j'utilise ou que j'ai utilisés :**    
-🐍Python  
-💻Bash   
-🌐HTML5   
-🎨CSS3   
-📉MySQL  
+- 🐍Python  
+- 💻Bash   
+- 🌐HTML5   
+- 🎨CSS3   
+- 📉MySQL  
 
 ---
 
 **Outils :**  
-IDE : VScode,  
-OS : windows, linux  
-Canva, Miro  
+- IDE : VScode,  
+- OS : windows, linux  
+- Canva, Miro  
 
 ---
 
 **J'ai des competences en :**  
-⚙️Algorithme  
-🌐Développement web  
-🗄️Base de données  
+- ⚙️Algorithme  
+- 🌐Développement web  
+- 🗄️Base de données  
 
 ---
 
@@ -39,8 +39,9 @@ Canva, Miro
 ---
 
 **A propos de moi :**  
-📖J'aime lire de la science-fiction et de la fantaisie  
-🎮Jouer au jeux vidéos  
+- 📖J'aime lire de la science-fiction et de la fantaisie  
+- 🎮Jouer au jeux vidéos  
+- 🛠️Developper mes compétences dans la maintenance en informatique
 
 ---
 
