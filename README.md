@@ -41,7 +41,7 @@ Je m'intéresse particulièrement au développement d'applications en générale
 **A propos de moi :**  
 - 📖J'aime lire de la science-fiction et de la fantaisie  
 - 🎮Jouer au jeux vidéos  
-- 🛠️Developper mes compétences dans la maintenance en informatique
+- 🛠️Developper mes compétences dans la maintenance de matériel informatique
 
 ---
 
